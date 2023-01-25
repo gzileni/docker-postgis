@@ -3,7 +3,7 @@
 ## Build Images
 
 ```bash
-docker build -t <IMAGE> -f Dockerfile-base 
+docker build -t <IMAGE> .
 ```
 
 ## Run Containers
